@@ -34,3 +34,9 @@
   }
 
 ?>
+
+<!-- La idea de este ejercicio es que practiquemos el uso de funciones y la creación de 
+ parámetros para un uso más adecuado y correcto de cara al futuro -->
+
+ <!-- Se ha dividido el ejercicio en dos partes, en una tenemos el formulario que es un html y en otro un fichero 
+  php que conectaremos a través del atributo "action" del form incluyendo la ruta de php -->
